@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#modern_beta:is_beta",
+    "#modern_beta:is_pe",
+    "#modern_beta:is_alpha",
+    "#modern_beta:is_infdev"
+  ]
+}
